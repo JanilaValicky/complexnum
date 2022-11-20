@@ -1,0 +1,6 @@
+﻿  c_complex.cpp
+C:\Users\5 Элемент\Desktop\курсачи\курсач с++\c_complex\c_complex\c_complex.cpp(19,9): warning C4101: a: неиспользованная локальная переменная
+C:\Users\5 Элемент\Desktop\курсачи\курсач с++\c_complex\c_complex\c_complex.cpp(17,7): warning C4101: z: неиспользованная локальная переменная
+C:\Users\5 Элемент\Desktop\курсачи\курсач с++\c_complex\c_complex\c_complex.cpp(19,12): warning C4101: b: неиспользованная локальная переменная
+C:\Users\5 Элемент\Desktop\курсачи\курсач с++\c_complex\c_complex\c_complex.cpp(18,7): warning C4101: test: неиспользованная локальная переменная
+  c_complex.vcxproj -> C:\Users\5 Элемент\Desktop\курсачи\курсач с++\c_complex\x64\Debug\c_complex.exe
